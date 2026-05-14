@@ -54,6 +54,7 @@
 ![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-7B2FF7?style=flat-square)
 
 **Cloud, DevOps & Distributed**
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)
 ![Microservices](https://img.shields.io/badge/-Microservices-FF6C37?style=flat-square)
