@@ -98,16 +98,16 @@
 
 | Project | Language | Description |
 |---------|----------|-------------|
+| [pi-nas](https://github.com/tarunvx/pi-nas) | Shell | Raspberry Pi 4B NAS |
 | [ngwtc](https://github.com/tarunvx/ngwtc) | C++ | ESP32/FreeRTOS water tank controller |
 | [doquery](https://github.com/tarunvx/doquery) | Java | RAG PDF query app — hexagonal architecture |
 | [script-x](https://github.com/tarunvx/script-x) | Python | Remote script execution via REST APIs |
 | [openapi-forge](https://github.com/tarunvx/openapi-forge) | Java | OpenAPI client code gen with JavaPoet |
-| [pi-nas](https://github.com/tarunvx/pi-nas) | Shell | Raspberry Pi 4B NAS |
 | [piano-visualiser](https://github.com/tarunvx/piano-visualiser) | Python | MIDI keyboard LED visualiser |
 | [llm-local](https://github.com/tarunvx/llm-local) | Python | Local LLM experimentation |
 | [music-work-station](https://github.com/tarunvx/music-work-station) | Python | Music workstation |
 | [Water-Storage-Manger](https://github.com/tarunvx/Water-Storage-Manger) | C++ | Water storage management |
-| [spring-ai](https://github.com/tarunvx/spring-ai) | - | Spring AI learning |
+| [spring-ai](https://github.com/tarunvx/spring-ai) | Java | Spring AI learning |
 
 ## Current Interests
 
